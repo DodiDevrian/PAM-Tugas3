@@ -20,11 +20,11 @@ Modul yang dipakai hanya diimport dari `react-native` dan juga dari `react` , un
 Saat tidak mencari maka di aplikasi akan tampil menu awal, dan ketika dilakukan pencarian, maka state akan berubah menjadi konsisi mencari sehingga screen dapat berubah.
 
 ### Tampilan Utama
-<img src="https://raw.githubusercontent.com/DodiDevrian/PAM-Tugas3/blob/main/ss/home.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/DodiDevrian/PAM-Tugas3/main/ss/home.png" width="30%" height="30%">
 
 ### Data terdapat dalam penyimpanan storage
-<img src="https://raw.githubusercontent.com/DodiDevrian/PAM-Tugas3/blob/main/ss/ada_data.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/DodiDevrian/PAM-Tugas3/main/ss/ada_data.png" width="30%" height="30%">
 
 ### Data tidak terdapat dalam penyimpanan storage
-<img src="https://raw.githubusercontent.com/DodiDevrian/PAM-Tugas3/blob/main/ss/kosong.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/DodiDevrian/PAM-Tugas3/main/ss/kosong.png" width="30%" height="30%">
 
